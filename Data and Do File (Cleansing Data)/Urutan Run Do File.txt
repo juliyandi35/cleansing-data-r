@@ -1,0 +1,6 @@
+Urutan Run Do File
+1. Splitting Data
+2. Cleansing Data 2014
+3. Cleansing Data 2018
+4. Cleansing Data 2021
+5. Appending Data
